@@ -1,0 +1,47 @@
+/*!
+ * Mastertech - Heroic Features
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.card {
+    height: 100%;
+}
+
+
+/* Inicio do meu CSS */
+.jumbotron {
+	background-color: #1E90FF;
+	color: white;
+	text-align: center;
+}
+p {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+.rounded-circle {
+	margin: 20px;
+}
+.input {
+	width: 400px;
+	margin-left: 31%;
+		}
+/* Fim do meu CSS */
